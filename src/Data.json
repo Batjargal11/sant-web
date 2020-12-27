@@ -1,0 +1,423 @@
+{
+  "Projects": [
+    {
+      "pageLink": "project-details",
+      "img": "project-1.jpg",
+      "projectTitle": "Nomunzul Battulga",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm temporДэлхийн Топ их сургуулиудын нэг болох “Stanford University”-д 1 дүгээр курсын оюутан, Сант сургуулийн 2019 оны төгсөгч хөдөлмөрч, хичээнгүй Б. Номунзултай Америкийн их сургуулиудад элсэн суралцсан мэдрэмж сэтгэгдэл болон гадаадад сурах туршлагаас хуваалцлаа."
+    },
+    {
+      "pageLink": "project-details",
+      "img": "project-2.jpg",
+      "projectTitle": "Энхтайван",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "project-details",
+      "img": "project-3.jpg",
+      "projectTitle": "Нямдаваа",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "project-details",
+      "img": "project-4.jpg",
+      "projectTitle": "Амар",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "project-details",
+      "img": "project-5.jpg",
+      "projectTitle": "Цог",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "project-details",
+      "img": "project-6.jpg",
+      "projectTitle": "Болдбаатар",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "project-details",
+      "img": "project-7.jpg",
+      "projectTitle": "Батжаргал",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "project-details",
+      "img": "project-8.jpg",
+      "projectTitle": "Алтангэрэл",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "project-details",
+      "img": "project-8.jpg",
+      "projectTitle": "9",
+      "projectSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    }
+  ],
+  "PROJECT_IMAGES": [
+    "project-9.jpg",
+    "project-10.jpg",
+    "project-11.jpg",
+    "project-12.jpg",
+    "project-10.jpg",
+    "project-11.jpg"
+  ],
+  "Services": [
+    {
+      "pageLink": "service-details-left-sidebar",
+      "img": "service1.jpg",
+      "iconClass": "flaticon-002-welding",
+      "serviceTitle": "Land Minning",
+      "serviceSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "service-details-left-sidebar",
+      "img": "service2.jpg",
+      "iconClass": "flaticon-004-walkie-talkie",
+      "serviceTitle": "Work Management",
+      "serviceSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "service-details-left-sidebar",
+      "img": "service3.jpg",
+      "iconClass": "flaticon-015-cart",
+      "serviceTitle": "Material Engineering",
+      "serviceSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "service-details-left-sidebar",
+      "img": "service-3.jpg",
+      "iconClass": "flaticon-010-tank-1",
+      "serviceTitle": "Power and Energy",
+      "serviceSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "service-details-left-sidebar",
+      "img": "service-2.jpg",
+      "iconClass": "flaticon-004-walkie-talkie",
+      "serviceTitle": "Land Minning",
+      "serviceSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    },
+    {
+      "pageLink": "service-details-left-sidebar",
+      "img": "service-1.jpg",
+      "iconClass": "flaticon-002-welding",
+      "serviceTitle": "Work Management",
+      "serviceSubtitle": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor"
+    }
+  ],
+  "imageGalleryData": [
+    {
+      "img": "service-details-1.jpg"
+    },
+    {
+      "img": "service-details-2.jpg"
+    },
+    {
+      "img": "service-details-3.jpg"
+    },
+    {
+      "img": "service-details-4.jpg"
+    },
+    {
+      "img": "service-details-5.jpg"
+    },
+    {
+      "img": "service-details-6.jpg"
+    }
+  ],
+  "Sidebar": [
+    {
+      "sidebarListLink": "service-details-left-sidebar",
+      "sidebarListIcon": "flaticon-015-cart",
+      "sidebarListText": "Core Curriculum"
+    },
+    {
+      "sidebarListLink": "advanced-placement",
+      "sidebarListIcon": "flaticon-010-tank-1",
+      "sidebarListText": "Advanced Placement"
+    },
+    {
+      "sidebarListLink": "exam-preparation",
+      "sidebarListIcon": "flaticon-002-welding",
+      "sidebarListText": "Exam Preparation Classes"
+    },
+    {
+      "sidebarListLink": "olympiad-preparation",
+      "sidebarListIcon": "flaticon-004-walkie-talkie",
+      "sidebarListText": "Olympiad Preparation Classes"
+    },
+    {
+      "sidebarListLink": "extra-curricular",
+      "sidebarListIcon": "flaticon-042-monitor",
+      "sidebarListText": "Extra Curricular Activities"
+    }
+  ],
+  "BlogGrid": [
+    {
+      "img": "1.jpg",
+      "date": "September 4, 2019",
+      "title": "Lorem Ipsum",
+      "postExcerpt": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe minus, illo error ratione eos ex.…",
+      "link": "blog-details-left-sidebar"
+    },
+    {
+      "img": "2.jpg",
+      "date": "September 5, 2019",
+      "title": "Lorem",
+      "postExcerpt": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe minus, illo error ratione eos ex.…",
+      "link": "blog-details-left-sidebar"
+    },
+    {
+      "img": "3.jpg",
+      "date": "September 6, 2019",
+      "title": "Lorem ipsum dolor sit amet.",
+      "postExcerpt": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe minus, illo error ratione eos ex.…",
+      "link": "blog-details-left-sidebar"
+    }
+  ],
+  "FeatureIcon": [
+    {
+      "featureIcon": "feature-1.png",
+      "featureTitle": "Top Rated",
+      "featureDescription": "Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur."
+    },
+    {
+      "featureIcon": "feature-2.png",
+      "featureTitle": "Best Quality",
+      "featureDescription": "Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur."
+    },
+    {
+      "featureIcon": "feature-3.png",
+      "featureTitle": "Low Cost",
+      "featureDescription": "Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur."
+    }
+  ],
+  "FunFact": [
+    {
+      "img": "funfact-project.png",
+      "countNum": 30,
+      "countTitle": "Жил"
+    },
+    {
+      "img": "funfact-clients.png",
+      "countNum": 50000,
+      "countTitle": "Сурагч"
+    },
+    {
+      "img": "funfact-success.png",
+      "countNum": 3000,
+      "countTitle": "Гадаад"
+    },
+    {
+      "img": "funfact-award.png",
+      "countNum": 60000,
+      "countTitle": "Медал"
+    }
+  ],
+  "HeroSliderTwo": [
+    {
+      "bgImg": "slider3.jpg",
+      "sliderTitle": "RANKED #1 BY OUR PUPILS’ PERFORMANCE ON UNIVERSITY ENTRY EXAM IN MONGOLIA",
+      "sliderSubtitle": "We are very proud that Sant School has been nationally ranked #1 by our pupils’ average performance on University Entry Exam “ЕЭШ” for the past five years. At Sant, everyone works hard to enable each student to reach their full potential personally and academically. As a result, most Sant pupils are able to enter their desired international and national universities.",
+      "btnLink": "contact-us"
+    },
+    {
+      "bgImg": "slider2.jpg",
+      "sliderTitle": "SCHOOL OF CHAMPIONS OF INTELLECTUAL OLYMPIADS.",
+      "sliderSubtitle": "Everyone at Sant is always proud of our champions of intellectual Olympiads. Many of our pupils successfully have participated in international annual Olympiads representing Mongolia.  To mention only 2016 accomplishments, in total 11 pupils from Sant participated in international Olympiads in mathematics, physics, and biology, held in Thailand, Switzerland and Vietnam. They won two gold, one silver, five bronze medals and three special awards.",
+      "btnLink": "contact-us"
+    },
+    {
+      "bgImg": "slider1.jpg",
+      "sliderTitle": "OUR GRADUATES ADMITTED TO WORLD TOP 100 UNIVERSITIES.",
+      "sliderSubtitle": "According the QS World University Rankings 2016, MIT was ranked #1. Six of our high-caliber pupils have been admitted to MIT including two girls in the last two years, Kh. Tserenchimeg in 2016, and L.Oyuntugs in 2017. Our pupils have also been admitted to Stanford University, University of California, Duke University, Boston University, University of Washington, University of Edinburgh, Michigan, Wisconsin Madison, Rochester Institute of Technology, Brown University, Dartmouth college, University of Massachusetts, University of Tokyo, Tokyo institute of Technology, Seoul National University, HKU, Australian National University, Purdue University, NUS, and many more.",
+      "btnLink": "contact-us"
+    },
+    {
+      "bgImg": "slider1.jpg",
+      "sliderTitle": "AN ESTABLISHED SCHOOL",
+      "sliderSubtitle": "As a first private comprehensive school in Mongolia, Sant School has been a leading educational institution for over twenty years with its extensive experience, robust curriculum and effective teaching and learning methodologies. We believe that pupils’ success hugely depends on the teaching quality. Thus, we invite the best teachers in all disciplines to work with us at Sant in order to maintain the quality of our teaching. Many of our teachers are graduates of the world top universities such as Berkeley, Oxford, MIT, Stanford, Manchester University, University of Washington and many more. We run our teaching and learning activities in comfortable learning environment which meet the standards.",
+      "btnLink": "contact-us"
+    },
+    {
+      "bgImg": "slider1.jpg",
+      "sliderTitle": "AN ADVANCED PLACEMENT (AP) PROGRAM PROVIDER IN MONGOLIA.",
+      "sliderSubtitle": "We offer Advanced Placement (AP) program at Sant School as optional classes.  Advanced Placement is a program run by College Board (the makers of the SAT) that allows pupils to take courses right in their high school that can earn them college credit and/or qualify pupils for more advanced classes when they begin college. If pupils get higher scores on AP, it will give them extra advantage to be admitted to the world top universities.",
+      "btnLink": "contact-us"
+    }
+  ],
+  "ProjectSlider": [
+    {
+      "img": "service1.jpg",
+      "serviceTitle": "Анхбаяр Энхтайван",
+      "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+      "serviceUrl": "service-details-left-sidebar"
+    },
+    {
+      "img": "service2.jpg",
+      "serviceTitle": "Цог Болдбаатар",
+      "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+      "serviceUrl": "service-details-left-sidebar"
+    },
+    {
+      "img": "service3.jpg",
+      "serviceTitle": "Lorem",
+      "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+      "serviceUrl": "service-details-left-sidebar"
+    },
+    {
+      "img": "service1.jpg",
+      "serviceTitle": "Ipsum",
+      "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+      "serviceUrl": "service-details-left-sidebar"
+    }
+  ],
+  "ServiceGridSlider": [
+    {
+      "img": "service1.jpg",
+      "iconName": "flaticon-002-welding",
+      "serviceTitle": "Land Minning",
+      "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+      "serviceUrl": "service-details-left-sidebar"
+    },
+    {
+      "img": "service2.jpg",
+      "iconName": "flaticon-004-walkie-talkie",
+      "serviceTitle": "Work Management",
+      "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+      "serviceUrl": "service-details-left-sidebar"
+    },
+    {
+      "img": "service3.jpg",
+      "iconName": "flaticon-015-cart",
+      "serviceTitle": "Material Engineering",
+      "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+      "serviceUrl": "service-details-left-sidebar"
+    },
+    {
+      "img": "service1.jpg",
+      "iconName": "flaticon-010-tank-1",
+      "serviceTitle": "Power and Energy",
+      "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+      "serviceUrl": "service-details-left-sidebar"
+    }
+  ],
+  "ServiceTabContent": [
+    {
+      "bgUrl": "core_curric.jpg",
+      "contentTitle": "Core Curriculum",
+      "contentDesc": "Sant School follows the Core Curriculum approved by the Ministry of Education, Culture, Science and Sports of Mongolia in our primary, secondary and upper secondary grades. Besides the Core Curriculum, we have been also offering Advanced Placement (AP) classes as optional classes for our upper secondary grade pupils. Moreover, we offer classes such as Olympiad and international exam preparation classes to our pupils. ",
+      "serviceLink": "service-details-left-sidebar"
+    },
+    {
+      "bgUrl": "ap.jpg",
+      "contentTitle": "Advanced Placement (AP) Classes",
+      "contentDesc": "We keep the pace of world education standards and offer Advanced Placement (AP) program at Sant. Our pupils can take AP as optional classes.  Advanced Placement is a program run by College Board (the makers of the SAT) that allows pupils to take courses right in their high school that can earn them college credit and/or qualify pupils for more advanced classes when they begin college. If pupils get higher scores on AP, it will give them extra advantage to be admitted to the world top universities.",
+      "serviceLink": "service-details-left-sidebar"
+    },
+    {
+      "bgUrl": "exam.jpg",
+      "contentTitle": "Exam Preparation Classes",
+      "contentDesc": "We offer our pupils exam preparation classes such as SAT, TOEFL, Monbusho & EЭШ to support their university applications. Every summer pupils from IVY league universities come to Mongolia to organize a summer school at Sant School to help our pupils to prepare for SAT and university admissions.",
+      "serviceLink": "service-details-left-sidebar"
+    },
+    {
+      "bgUrl": "olympiad.jpg",
+      "contentTitle": "Olympiad Preparation Classes",
+      "contentDesc": "Everyone at Sant is always proud of our champions of intellectual Olympiads. Many of our pupils have extra classes of Olympiad preparation in  mathematics, physics, biology, chemistry, history, Mongolian language and script, English, drawing and art.",
+      "serviceLink": "service-details-left-sidebar"
+    }
+  ],
+  "ServiceTabMenu": [
+    {
+      "iconName": "flaticon-002-welding",
+      "tabMenuName": "Core Curriculum"
+    },
+    {
+      "iconName": "flaticon-004-walkie-talkie",
+      "tabMenuName": "Advanced Placement (AP) Classes"
+    },
+    {
+      "iconName": "flaticon-015-cart",
+      "tabMenuName": "Exam Preparation Classes"
+    },
+    {
+      "iconName": "flaticon-010-tank-1",
+      "tabMenuName": "Olympiad Preparation Classes"
+    }
+  ],
+  "TeamJob": [
+    {
+      "jobTitle": "Nyamdavaa Amar",
+      "jobDesc": "Lorem Ipsum",
+      "jobLink": "/"
+    },
+    {
+      "jobTitle": "Ankhbayar Enkhtaivan",
+      "jobDesc": "here are many variations of passages",
+      "jobLink": "/"
+    },
+    {
+      "jobTitle": "Tsog Boldbaatar",
+      "jobDesc": "here are many variations of passages",
+      "jobLink": "/"
+    }
+  ],
+  "TeamMemberGrid": [
+    {
+      "profileImage": "team-1.jpg",
+      "profileTitle": "Lorem Ipsum",
+      "profileDesignation": "CEO & Architech",
+      "profileEmail": "mefbayar@gmail.com",
+      "socialLinks": {
+        "facebook": "//www.facebook.com",
+        "twitter": "//www.twitter.com",
+        "linkedin": "//www.linkedin.com",
+        "googlePlus": "//plus.google.com"
+      }
+    },
+    {
+      "profileImage": "team-2.jpg",
+      "profileTitle": "Vestibulum auctor",
+      "profileDesignation": "Lorem",
+      "profileEmail": "eankhbayarr@gmail.com",
+      "socialLinks": {
+        "facebook": "//www.facebook.com",
+        "twitter": "//www.twitter.com",
+        "linkedin": "//www.linkedin.com",
+        "googlePlus": "//plus.google.com"
+      }
+    },
+    {
+      "profileImage": "team-3.jpg",
+      "profileTitle": "Fusce tristique",
+      "profileDesignation": "Ipsum",
+      "profileEmail": "eankhbayarr@gmail.com",
+      "socialLinks": {
+        "facebook": "//www.facebook.com",
+        "twitter": "//www.twitter.com",
+        "linkedin": "//www.linkedin.com",
+        "googlePlus": "//plus.google.com"
+      }
+    },
+    {
+      "profileImage": "team-4.jpg",
+      "profileTitle": "Maecenas sed",
+      "profileDesignation": "Magatet",
+      "profileEmail": "eankhbayarr@gmail.com",
+      "socialLinks": {
+        "facebook": "//www.facebook.com",
+        "twitter": "//www.twitter.com",
+        "linkedin": "//www.linkedin.com",
+        "googlePlus": "//plus.google.com"
+      }
+    }
+  ],
+  "TestimonialSlider":[
+    {"testimonialImage": "1.jpg", "testimonialName": "Madison Black", "testimonialDesignation": "Founder", "testimonialText": "Lorem ipsum dolor sit amet, consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"},
+    {"testimonialImage": "3.jpg", "testimonialName": "Jonathon Doe", "testimonialDesignation": "Engineer", "testimonialText": "Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco Lorem ipsum dolor sit amet."},
+    {"testimonialImage": "2.jpg", "testimonialName": "John Doe", "testimonialDesignation": "CEO", "testimonialText": "consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"}
+]
+}

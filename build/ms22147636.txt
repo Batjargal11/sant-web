@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "sant.school",
+  "Id": "de18146d-44ad-45ad-90d2-8271fd13345c"
+}

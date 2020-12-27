@@ -1,0 +1,80 @@
+import React, { Component } from "react";
+import Swiper from "react-id-swiper";
+import Data from "../Data.json";
+class HeroSliderOne extends Component {
+  render() {
+    const params = {
+      slidesPerView: 1,
+      loop: true,
+      speed: 1000,
+      watchSlidesVisibility: true,
+      effect: "fade",
+      navigation: {
+        nextEl: ".ht-swiper-button-next",
+        prevEl: ".ht-swiper-button-prev",
+      },
+      renderPrevButton: () => (
+        <div className="ht-swiper-button-prev ht-swiper-button-nav d-none d-xl-block">
+          <i className="ion-ios-arrow-left" />
+        </div>
+      ),
+      renderNextButton: () => (
+        <div className="ht-swiper-button-next ht-swiper-button-nav d-none d-xl-block">
+          <i className="ion-ios-arrow-forward" />
+        </div>
+      ),
+      autoplay: {
+        delay: 5000,
+      },
+    };
+
+    let DataList = Data.HeroSliderTwo.map((val, i) => {
+      return (
+        <div className="swiper-slide" key={i}>
+          <div
+            className="hero-slider__single-item"
+            style={{ backgroundImage: `url(assets/img/slider/${val.bgImg})` }}
+          >
+            <div className="hero-slider__content-wrapper">
+              <div className="container">
+                <div className="row">
+                  <div className="col-lg-12">
+                    <div className="hero-slider__content m-auto text-center">
+                    <a className="hero-slider__title" href={`${process.env.PUBLIC_URL}/`}>
+                        <img
+                          src="assets/img/logo/logo-light.png"
+                          className="img-fluid hero-slider__logo"
+                          alt=""
+                        />
+                      </a>
+                      <h2 className="hero-slider__title">{val.sliderTitle}</h2>
+                      <p className="hero-slider__text">{val.sliderSubtitle}</p>
+                      <a
+                        className="hero-slider__btn hero-slider__btn--style2"
+                        href={`${process.env.PUBLIC_URL}/${val.btnLink}`}
+                      >
+                        {" "}
+                        SEE MORE
+                      </a>
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      );
+    });
+
+    return (
+      <div>
+        <div className="hero-alider-area">
+          <Swiper {...params}>{DataList}</Swiper>
+        </div>
+      </div>
+    );
+  }
+}
+
+export default HeroSliderOne;
